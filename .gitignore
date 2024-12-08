@@ -1,0 +1,16 @@
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore Visual Studio specific folders and files
+.vs/
+*.user
+*.suo
+*.csproj.user
+*.sln.docstates
+
+# Ignore temporary files
+*.log
+*.tmp
+*.pdb
+*.mdb
